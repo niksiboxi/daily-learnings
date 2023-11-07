@@ -1,0 +1,1 @@
+Mark all possible canditates in the 3x3 box empty cells. This will reveal a single canditate, which is the "obvious single" 
